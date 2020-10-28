@@ -1,1 +1,2 @@
-# init_repo
+# InIt
+currently accepting any hacktoberfest related request
